@@ -1,0 +1,24 @@
+{
+  "name": "tauri-and-threejs",
+  "version": "1.0.0",
+  "description": "How to make video games with Tauri and ThreeJS. I will also be creating videos for this,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahStelljes/Tauri-And-ThreeJS.git"
+  },
+  "keywords": [
+    "Three-JS",
+    "Tauri",
+    "Video-Games"
+  ],
+  "author": "Sarah E. Stelljes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SarahStelljes/Tauri-And-ThreeJS/issues"
+  },
+  "homepage": "https://github.com/SarahStelljes/Tauri-And-ThreeJS#readme"
+}
